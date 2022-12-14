@@ -37,14 +37,14 @@ public class TC_AddCustomerTest extends BaseClass{
 
 
 
-//		Actions act=new Actions(driver);
-//		act.moveByOffset(100, 250).perform();
-//		act.click().perform();
+		Actions act=new Actions(driver);
+		act.moveByOffset(100, 250).perform();
+		act.click().perform();
 
-				Robot r=new Robot();
-				 r.mouseMove(100, 250);
-				  r.mousePress(InputEvent.BUTTON1_DOWN_MASK);
-				  r.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
+//				Robot r=new Robot();
+//				 r.mouseMove(100, 250);
+//				  r.mousePress(InputEvent.BUTTON1_DOWN_MASK);
+//				  r.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
 
 
 		logger.info("providing customer details....");
