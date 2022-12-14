@@ -1,0 +1,35 @@
+INFO    2022-11-29 11:22:15,423 [main] com.inetbanking.pageObject.BaseClass  - chrome browser invoked....
+INFO    2022-11-29 11:22:20,047 [main] com.inetbanking.testCases.LoginTestCase_001  - driver entered url of https://demo.guru99.com/v3
+INFO    2022-11-29 11:22:20,393 [main] com.inetbanking.testCases.LoginTestCase_001  - mngr458436 entered in useId field 
+INFO    2022-11-29 11:22:20,619 [main] com.inetbanking.testCases.LoginTestCase_001  -  password entered in password field 
+INFO    2022-11-29 11:22:21,430 [main] com.inetbanking.testCases.LoginTestCase_001  - Clicked Login button
+ERROR   2022-11-29 11:22:21,447 [main] com.inetbanking.testCases.LoginTestCase_001  - Titled not verified 
+INFO    2022-11-29 11:22:21,997 [main] com.inetbanking.pageObject.BaseClass  -  Driver quited check results....
+INFO    2022-11-29 11:28:08,566 [main] com.inetbanking.pageObject.BaseClass  - firefox browser invoked....
+INFO    2022-11-29 11:28:13,961 [main] com.inetbanking.testCases.LoginTestCase_001  - driver entered url of https://demo.guru99.com/v3
+INFO    2022-11-29 11:28:14,161 [main] com.inetbanking.testCases.LoginTestCase_001  - mngr458436 entered in useId field 
+INFO    2022-11-29 11:28:14,206 [main] com.inetbanking.testCases.LoginTestCase_001  -  password entered in password field 
+INFO    2022-11-29 11:28:17,304 [main] com.inetbanking.testCases.LoginTestCase_001  - Clicked Login button
+INFO    2022-11-29 11:28:17,314 [main] com.inetbanking.testCases.LoginTestCase_001  - Titled verified Successfully
+INFO    2022-11-29 11:28:18,803 [main] com.inetbanking.pageObject.BaseClass  -  Driver quited check results....
+INFO    2022-11-29 11:33:08,765 [main] com.inetbanking.pageObject.BaseClass  - firefox browser invoked....
+INFO    2022-11-29 11:33:13,163 [main] com.inetbanking.testCases.LoginTestCase_001  - driver entered url of https://demo.guru99.com/v3
+INFO    2022-11-29 11:33:13,445 [main] com.inetbanking.testCases.LoginTestCase_001  - mngr458436 entered in useId field 
+INFO    2022-11-29 11:33:13,511 [main] com.inetbanking.testCases.LoginTestCase_001  -  password entered in password field 
+INFO    2022-11-29 11:33:16,044 [main] com.inetbanking.testCases.LoginTestCase_001  - Clicked Login button
+INFO    2022-11-29 11:33:16,066 [main] com.inetbanking.testCases.LoginTestCase_001  - Titled verified Successfully
+INFO    2022-11-29 11:33:17,628 [main] com.inetbanking.pageObject.BaseClass  -  Driver quited check results....
+INFO    2022-11-29 11:33:34,723 [main] com.inetbanking.pageObject.BaseClass  - chrome browser invoked....
+INFO    2022-11-29 11:33:38,958 [main] com.inetbanking.testCases.LoginTestCase_001  - driver entered url of https://demo.guru99.com/v3
+INFO    2022-11-29 11:33:40,807 [main] com.inetbanking.testCases.LoginTestCase_001  - mngr458436 entered in useId field 
+INFO    2022-11-29 11:33:41,238 [main] com.inetbanking.testCases.LoginTestCase_001  -  password entered in password field 
+INFO    2022-11-29 11:33:41,806 [main] com.inetbanking.testCases.LoginTestCase_001  - Clicked Login button
+ERROR   2022-11-29 11:33:41,819 [main] com.inetbanking.testCases.LoginTestCase_001  - Titled not verified 
+INFO    2022-11-29 11:33:42,703 [main] com.inetbanking.pageObject.BaseClass  -  Driver quited check results....
+INFO    2022-11-29 11:35:20,233 [main] com.inetbanking.pageObject.BaseClass  - chrome browser invoked....
+INFO    2022-11-29 11:35:24,534 [main] com.inetbanking.testCases.LoginTestCase_001  - driver entered url of https://demo.guru99.com/v3
+INFO    2022-11-29 11:35:25,008 [main] com.inetbanking.testCases.LoginTestCase_001  - mngr458436 entered in useId field 
+INFO    2022-11-29 11:35:26,299 [main] com.inetbanking.testCases.LoginTestCase_001  -  password entered in password field 
+INFO    2022-11-29 11:35:28,320 [main] com.inetbanking.testCases.LoginTestCase_001  - Clicked Login button
+INFO    2022-11-29 11:35:28,347 [main] com.inetbanking.testCases.LoginTestCase_001  - Titled verified Successfully
+INFO    2022-11-29 11:35:28,956 [main] com.inetbanking.pageObject.BaseClass  -  Driver quited check results....

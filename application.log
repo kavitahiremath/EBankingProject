@@ -1,0 +1,15 @@
+2022-11-30 11:14:56,313  INFO [main] TC_LoginTest:19 - URL is opened
+2022-11-30 11:14:58,822  INFO [main] TC_LoginTest:23 - User Logged-in Successfully and entered into HomePage
+2022-11-30 11:14:58,841  INFO [main] TC_LoginTest:29 - LoginTest Passed
+2022-11-30 11:14:58,852  INFO [main] BaseClass:76 - Closing the browser
+2022-11-30 11:17:44,000  INFO [main] TC_LoginTest:19 - URL is opened
+2022-11-30 11:17:45,720  INFO [main] TC_LoginTest:23 - User Logged-in Successfully and entered into HomePage
+2022-11-30 11:17:45,757  INFO [main] BaseClass:76 - Closing the browser
+2022-11-30 11:29:53,766  INFO [main] TC_LoginTest:19 - URL is opened
+2022-11-30 11:29:56,278  INFO [main] TC_LoginTest:23 - User Logged-in Successfully and entered into HomePage
+2022-11-30 11:29:56,293  INFO [main] TC_LoginTest:29 - LoginTest Passed
+2022-11-30 11:29:56,304  INFO [main] BaseClass:89 - Closing the browser
+2022-11-30 12:48:22,354  INFO [main] TC_LoginTest:19 - URL is opened
+2022-11-30 12:48:25,817  INFO [main] TC_LoginTest:23 - User Logged-in Successfully and entered into HomePage
+2022-11-30 12:48:25,835  INFO [main] TC_LoginTest:29 - LoginTest Passed
+2022-11-30 12:48:25,847  INFO [main] BaseClass:92 - Closing the browser
